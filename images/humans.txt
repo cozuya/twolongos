@@ -1,0 +1,17 @@
+/* AUTHOR */
+	Chris Ozols
+	http://www.twolongos.com
+	chris@twolongos.com
+
+/* CREDITS */
+	The team at jQuery and jQuery UI. http://jquery.com
+	Modernizr browser feature detection.  http://modernizr.com
+	The contributers to Subtle Patterns. http://www.subtlepatterns.com
+	CSS3 gradient generator. http://www.colorzilla.com/gradient-editor
+	Everything else coded by author.
+
+/* SITE */
+	Last update: Nov 2014
+	Standards: HTML5, CSS3
+	Components: Modernizr, jQuery
+	Software: Sublime Text 2, Photoshop CS5.5
