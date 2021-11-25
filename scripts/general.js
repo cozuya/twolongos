@@ -18,7 +18,7 @@ coz.init = function () {
 				$(el).addClass('flip-footer-icons');
 			}, index * 500);
 		});
-	}, 6500);
+	}, 5500);
 
 	if (Modernizr.canvas) {		
 		var ctx = document.getElementById('header-canvas').getContext('2d');
