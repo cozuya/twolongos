@@ -11,7 +11,7 @@
 	Everything else coded by author.
 
 /* SITE */
-	Last update: Nov 2014
+	Last update: May 2023
 	Standards: HTML5, CSS3
 	Components: Modernizr, jQuery
-	Software: Sublime Text 2, Photoshop CS5.5
+	Software: VS Code, Photoshop CS5.5
