@@ -4,14 +4,11 @@
 	chris.v.ozols@gmail.com
 
 /* CREDITS */
-	The team at jQuery and jQuery UI. http://jquery.com
-	Modernizr browser feature detection.  http://modernizr.com
+	jQuery http://jquery.com
+	Modernizr http://modernizr.com
 	The contributers to Subtle Patterns. http://www.subtlepatterns.com
 	CSS3 gradient generator. http://www.colorzilla.com/gradient-editor
-	Everything else coded by author.
+	Everything else by author.
 
 /* SITE */
-	Last update: May 2023
-	Standards: HTML5, CSS3
-	Components: Modernizr, jQuery
-	Software: VS Code, Photoshop CS5.5
+	Last update: March 2025
